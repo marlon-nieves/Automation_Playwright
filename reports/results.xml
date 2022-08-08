@@ -1,0 +1,33 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="27.935">
+<testsuite name="BookingTest\HU003\searchForAccommodation.spec.ts" timestamp="1659139878301" hostname="" tests="1" failures="0" skipped="0" time="26.912" errors="0">
+<testcase name="
+Given Necesito buscar un alojamiento
+when lleno los campos
+then visualizo los alojamientos disponibles
+" classname="[chromium] › BookingTest\HU003\searchForAccommodation.spec.ts:23:1 › 
+Given Necesito buscar un alojamiento
+when lleno los campos
+then visualizo los alojamientos disponibles
+" time="26.912">
+<system-out>
+<![CDATA[*********INFORMACION*************
+PRECIOS: COP 1.040.000,COP 1.280.000,COP 1.652.400,COP 870.000,COP 842.400,COP 800.000,COP 920.000,COP 1.828.800,COP 900.000,COP 1.760.000
+COP 1.040.000
+COP 1.280.000
+COP 1.652.400
+COP 870.000
+COP 842.400
+COP 800.000
+COP 920.000
+COP 1.828.800
+COP 900.000
+COP 1.760.000
+DISTANCE: , COP 576.000,COP 700.000,COP 566.280,COP 1.584.000,COP 880.000,COP 596.000,COP 1.800.000,COP 1.260.000,COP 870.000,COP 842.400,COP 1.680.000,COP 1.266.000,COP 3.420.000,COP 920.000,COP 1.828.800,COP 900.000
+VALORACION SUPERIOR A 9: 9,3,9,0,9,3,9,0,9,0,9,1,9,2,9,2,9,4,9,3
+
+[[ATTACHMENT|..\test-results\BookingTest-HU003-searchForAccommodation--Give-a74f3-os-then-visualizo-los-alojamientos-disponibles--chromium\video.webm]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

@@ -1,0 +1,17 @@
+{
+  "name": "practica_soucedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test" : "npx playwright test",
+    "test-booking" : "npx playwright test tests/SauceDemoTest/HU004",
+    "test-sauce_demo" : "npx playwright test tests/SauceDemoTest/HU005"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.23.2"
+  }
+}
